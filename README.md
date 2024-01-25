@@ -34,6 +34,7 @@ The architecture comprises several components working together to implement the 
 git clone https://github.com/yourusername/your-repository-name.git
 cd your-repository-name
 pip install -r requirements.txt
+```
 
 ## Author
 Jarred Bultema, PhD
