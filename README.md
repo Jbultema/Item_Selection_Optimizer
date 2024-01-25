@@ -31,8 +31,8 @@ The architecture comprises several components working together to implement the 
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Jbultema/ItemBandit.git
+cd ItemBandit
 pip install -r requirements.txt
 ```
 
