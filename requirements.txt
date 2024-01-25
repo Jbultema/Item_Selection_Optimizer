@@ -1,0 +1,7 @@
+pandas
+numpy
+pandera
+tqdm
+Levenshtein
+spacy
+scipy
